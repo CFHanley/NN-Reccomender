@@ -7,7 +7,9 @@ The task for this project was to predict each instance of a document being loade
 Below are the summary sections from the python file and report that are key to the learning outcomes and results. 
 
 **Data processing**
-The following attributes were removed * New-Sub - little face value relevance based on initial EDA
+
+The following attributes were removed:
+* New-Sub - little face value relevance based on initial EDA
 * Premium Pack - little face value relevance based on initial EDA * Session Id - values are nearly
 all unique, therfore was removed * Query Id - values are nearly all unique, therfore was removed
 * Day - Found not to improve model, removed to reduce dimensionality * Hour - Found not to
