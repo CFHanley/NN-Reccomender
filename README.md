@@ -23,10 +23,9 @@ dimensionality to a minimum, the number of categories for Dwell, Month, and Natu
 by respectively introducing the class ‘Other’ for categories found non significant in differerentiating
 between relevant and irrelevant
 
-Results and Discussion
-image.png
+**Results and Discussion**
+See pyhton File for Results table.
 
-Please see model descriptions and subclass codes for hyper parameters.
 **Findings**
 
 * As can be seen within the table, models perform better when they are trained on more data.
